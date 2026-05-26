@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://artur-gabriel-portifolio.vercel.app/">🌐 Portfólio</a> ·
+  <a href="https://portifolio-pessoal-puce-chi.vercel.app/">🌐 Portfólio</a> ·
   <a href="https://www.linkedin.com/in/artur-gabriel-4863a9196/">💼 LinkedIn</a> ·
   <a href="https://www.behance.net/arturgabriel">✦ Behance</a> ·
   <a href="mailto:arturgabriel153@gmail.com">✉ E-mail</a>
@@ -52,7 +52,7 @@ Aberto a parcerias, projetos freelance e conversas sobre tecnologia, produto e n
 - ✉ **arturgabriel153@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/artur-gabriel-4863a9196/)
 - ✦ [Behance](https://www.behance.net/arturgabriel) — portfólio de design (10+ projetos)
-- 🌐 [Portfólio pessoal](https://artur-gabriel-portifolio.vercel.app/)
+- 🌐 [Portfólio pessoal](https://portifolio-pessoal-puce-chi.vercel.app/)
 
 ---
 
